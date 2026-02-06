@@ -154,4 +154,3 @@ The app uses Tailwind CSS with a custom dark theme. You can modify colors and st
 - `tailwind.config.ts` - Tailwind configuration
 
 
-Made with ❤️ by Ahsan Kesrani
